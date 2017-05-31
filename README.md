@@ -4,7 +4,7 @@
 
 ## 文章标签
 
-*  [javascript](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)
+*  [Javascript](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)
 *  [nodejs](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Anodejs)
 *  [koa](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Akoa)
 *  [react](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Areact)
