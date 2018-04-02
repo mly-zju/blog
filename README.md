@@ -4,7 +4,7 @@
 
 ### [全部文章列表](https://github.com/mly-zju/blog/issues)
 
-#### 文章标签
+#### 文章归档
 
 *  [Javascript](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)
 *  [nodejs](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Anodejs)
