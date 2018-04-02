@@ -2,8 +2,7 @@
 
 不定期分享我的技术学习感悟，欢迎订阅和收藏~
 
-## 全部文章列表
-[全部文章](https://github.com/mly-zju/blog/issues)
+## [全部文章列表](https://github.com/mly-zju/blog/issues)
 
 ## 文章标签
 
