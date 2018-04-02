@@ -2,6 +2,9 @@
 
 不定期分享我的技术学习感悟，欢迎订阅和收藏~
 
+## 全部文章列表
+[全部文章](https://github.com/mly-zju/blog/issues)
+
 ## 文章标签
 
 *  [Javascript](https://github.com/mly-zju/blog/issues?q=is%3Aissue+is%3Aopen+label%3Ajavascript)
